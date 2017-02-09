@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #
-# Modified Version of Mixpanel Python Client For Exporting Raw Data to a JSON Array
+# Modified Version of Mixpanel Python Client For Exporting Raw Data to a JSON Array by R.C. Howell
 #
 # Mixpanel, Inc. -- http://mixpanel.com/
 #
