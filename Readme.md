@@ -5,7 +5,8 @@ These two scripts make it super easy to export your Mixpanel data and load it in
 
 ## Requirements
 ---
-**R	> 3.0.0**\
+**R	> 3.0.0**
+
 **Python 2.7.x**
 
 ## Usage
