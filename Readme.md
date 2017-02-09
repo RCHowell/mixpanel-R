@@ -17,7 +17,7 @@ echo "YOUR SECRET" >> ./secret.txt
 ### 2.a From Terminal
 ```bash
 # Run this in your terminal
-./python export.py 'event1,event2,...' from_date to_date
+python ./export.py 'event1,event2,...' from_date to_date
 ```
 
 ### 2.b From R
