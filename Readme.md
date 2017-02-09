@@ -1,16 +1,13 @@
 ## Introduction
----
 These two scripts make it super easy to export your Mixpanel data and load it into R. I've run everything on OSX 10.12.3, but these scripts have very little to do with your operating system. The only step that changes based upon OS is creating your secret.txt file which can be done without a command.
 
 
 ## Requirements
----
 **R	> 3.0.0**
 
 **Python 2.7.x**
 
 ## Usage
----
 ### 1. Create `secret.txt` in the Root Directory
 ```bash
 # Run this in your terminal
