@@ -94,9 +94,9 @@ if __name__ == '__main__':
     checkArgs()
     data = api.request(['export'], {
         'event': sys.argv[1].split(","),
-        'from_date': sys.argv[2],
-        'to_date': sys.argv[3]
+        'from_date': urllib2.quote(sys.argv[2]),
+        'to_date': urllib2.quote(sys.argv[3])
     })
     printArr(data)
-    
+
 
